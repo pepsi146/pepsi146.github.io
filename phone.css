@@ -1,0 +1,205 @@
+#android{
+width: 360px;
+height: 3000px;
+overflow: hidden;
+background: rgb(255, 255, 255);
+margin-left: auto; margin-right: auto;}
+
+
+#gora{
+display: flex;
+
+position: relative;
+padding: 5px;
+width: 360px;
+height: 60.19px;
+background: #20B2AA;
+}
+#o2{
+width: 360px;
+height: 165px;
+background: #494949;
+}
+#o3{
+margin-left: auto; margin-right: auto;
+width: 360px;
+height: 27px;
+background-image: url("gora.png");
+left: 0px;
+top: 21px;
+
+}
+#o4{
+margin-left: auto; margin-right: auto;
+width: 360px;
+height: 165px;
+left: 0px;
+top: 27px;
+background: #494949;
+}
+#o5{margin-left: auto; margin-right: auto;
+width: 360px;
+height: 27px;
+
+background: url(tt2.png);
+top: 21px;
+}
+#o6{
+margin-left: auto; margin-right: auto;
+width: 360px;
+height: 400px;
+top: 509px;
+background: #F5F5F5
+}
+
+#o7{
+margin-left: auto;
+ margin-right: auto;
+width: 360px;
+height: 66px;
+background: url(ob4.png);
+}
+
+#o8{
+margin-left: auto; margin-right: auto;
+width: 360px;
+height: 149.49px;
+top: 509px;background: #494949;
+}
+#o9{
+margin-left: auto; margin-right: auto;
+width: 360px;
+height: 167.34px;
+top: 661px;
+background: #F5F5F5;
+}
+#o10{margin-left: auto; margin-right: auto;
+width: 360px;
+height: 20px;
+left: -1px;
+top: 828px;
+
+background: #20B2AA;}
+
+
+#czarny{color:#4B4B4B;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#dron{
+position: relative;
+left: 5%;
+top: 20%;
+}
+#domek{
+position: relative;
+left: 0%;
+top: 17%;
+
+}
+#pyt{
+position: relative;
+left: 4%;
+top: 16%;
+
+}
+
+#news{
+position: relative;
+left: 10%;
+top: 17%;
+
+}
+#kontakt{
+position: relative;
+left: 16%;
+top: 17%;
+
+}
+
+
+
+
+.bc{
+position: relative;
+width: 75.05px;
+height: 17.96px;
+left: 5%;
+top: 5%;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 15.3942px;
+line-height: 18px;
+color: #FFFFFF;
+}
+
+.bd{
+position: relative;
+width: 31.75px;
+height: 6.73px;
+left: -3%;
+top: 50%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 5.77284px;
+line-height: 7px;
+/* identical to box height */
+
+
+color: #FFFFFF;}
+
+
+#srodek{width:140px;height:20px;
+position: relative;
+left: 30%;
+padding:1px;
+background-color:#20B2AA;
+}
+#srodek2{
+position: relative;
+top:-62%;
+Font-Family: Roboto;
+font-weight: Bold;
+font-size: 15px;
+color:#FFFFFF;
+text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+.N1{
+Font-Family: Roboto;
+Font-Style: Bold;
+font-size: 17px;
+color:#E1E1E1;}
+
+.center {
+  text-align: center;
+}
+.N2{
+Font-Family: Roboto;
+font-size: 14px;
+color:#E1E1E1;}
