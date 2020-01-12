@@ -1,0 +1,908 @@
+<!-- Android - 3 -->
+<div class="frame" id="n1_2">
+	<!-- Desktop - 2 -->
+	<div class="frame" id="n1_3"></div>
+	<!-- Frame 2 -->
+	<div class="frame" id="n1_4">
+		<!-- Frame 4 -->
+		<div class="frame" id="n1_5">
+			<!-- Y3c9MTE3MCZjaD01MTM=_src_13483-uklad_scalony 1 -->
+			<div class="left top rectangle" id="n1_6"></div>
+		</div>
+		<!-- Frame 5 -->
+		<div class="frame" id="n1_7">
+			<!-- kable-siecowe01 1 -->
+			<div class="left top rectangle" id="n1_8"></div>
+		</div>
+		<!-- Frame 6 -->
+		<div class="frame" id="n1_9">
+			<!-- bg-computer 1 -->
+			<div class="left top rectangle" id="n1_10"></div>
+			<!-- Witamy na Droni-Com -->
+			<div class="left top text" id="n1_11">Witamy na Droni-Com </div>
+			<!-- DroniX to zgrupowanie ludzi pasjonujących się dronami i różnymi nowinkami technologicznymi. Naszym zadaniem jest dostarczać urzytkownikom naszej witryny najświeższych i zawsze najprawdziwszych informacji na temat nowinek technologicznych. -->
+			<div class="left top text" id="n1_12">DroniX to zgrupowanie &nbsp;ludzi pasjonujących się dronami i różnymi nowinkami<br>technologicznymi. Naszym zadaniem jest dostarczać urzytkownikom naszej<br>witryny najświeższych i zawsze najprawdziwszych informacji na temat<br>nowinek technologicznych.
+			</div>
+		</div>
+		<!-- Frame 8 -->
+		<div class="frame" id="n1_13">
+			<!-- cover(12) 1 -->
+			<div class="left top rectangle" id="n1_14"></div>
+			<!-- dron3-ff2f66671c794e4351906f1ffe 1 -->
+			<div class="left top rectangle" id="n1_15"></div>
+			<!-- 9.01.2019 – W Warszawie rozpoczną się Targi na których i Ty będziesz mógł przetestować nowego osobowego drona wejście na Event darmowe! Będą też dodatkowe atrakcje! -->
+			<div class="left top text" id="n1_16">9.01.2019 – W Warszawie rozpoczną się Targi na których i Ty będziesz mógł przetestować nowego osobowego drona wejście na Event darmowe! Będą też dodatkowe atrakcje!</div>
+			<!-- o nowych perspektywach sektora dronowego opowie ekspert prawa lotniczego Joanna Wieczorek oraz prelegenci z Polskiej Agencji Żeglugi Powietrznej i Urzędu Lotnictwa Cywilnego -->
+			<div class="left top text" id="n1_17">o nowych perspektywach sektora dronowego opowie ekspert prawa lotniczego <br>Joanna Wieczorek oraz prelegenci z Polskiej Agencji Żeglugi Powietrznej i Urzędu Lotnictwa Cywilnego
+			</div>
+			<!-- o sztucznej inteligencji (AI) i cognitive computing na przykładzie konkretnych case studies opowiedzą eksperci Krzysztof Wysocki (Oracle) i Marcin Niczyporuk (Intive) -->
+			<div class="left top text" id="n1_18">o sztucznej inteligencji (AI) i cognitive computing na przykładzie konkretnych case studies opowiedzą eksperci<br>Krzysztof Wysocki (Oracle) i Marcin Niczyporuk (Intive)
+			</div>
+			<!-- EVENT -->
+			<div class="left top text" id="n1_19">EVENT</div>
+		</div>
+		<!-- Frame 9 -->
+		<div class="frame" id="n1_20">
+			<!-- KONTAKT: DroniX@dron.pl -->
+			<div class="left top text" id="n1_21">KONTAKT: DroniX@dron.pl</div>
+		</div>
+		<!-- Frame 11 -->
+		<div class="frame" id="n1_22">
+			<!-- Frame 14 -->
+			<div class="frame" id="n1_23">
+				<!-- dołącz do nas! -->
+				<div class="left top text" id="n1_24">dołącz do nas!</div>
+			</div>
+			<!-- Już dziś zapisz sie do Newslettera! -->
+			<div class="left top text" id="n1_25">Już dziś zapisz sie do Newslettera!</div>
+			<!-- Chcesz dostawać najnowsze wiadomości ze świata dronów nic prosztrzego zapisz się do naszego newsletter z nim nigdy nie przegapisz najświeższych informacji! -->
+			<div class="left top text" id="n1_26">Chcesz dostawać najnowsze wiadomości<br>ze świata dronów nic prosztrzego zapisz się<br>do naszego newsletter z nim nigdy nie przegapisz<br>najświeższych informacji!
+			</div>
+		</div>
+		<!-- lupa 1 -->
+		<div class="left top rectangle" id="n1_27"></div>
+		<!-- Frame 14 -->
+		<div class="frame" id="n1_28">
+			<!-- dubai-police-force-testing-hoverbikes-designboom-1 1 -->
+			<div class="left top rectangle" id="n1_29"></div>
+			<!-- CZY TO PRZYSZŁOŚĆ? -->
+			<div class="left top text" id="n1_30">CZY TO PRZYSZŁOŚĆ?</div>
+			<!-- Nie to Dron zaprezentowany przez firme Droni-Com -->
+			<div class="subsets left top text" id="n1_31">
+				<span id="n1_31-9">Nie to Dron zaprezentowany<br>przez firme </span>
+				<span id="n1_31-8">Droni-Com</span>
+			</div>
+			<!-- Lata nie wymaga licencji pilota i jest wpełni zasilany na wodę! (także tą słoną) -->
+			<div class="left top text" id="n1_32">Lata nie wymaga licencji pilota <br>i jest wpełni zasilany na wodę!<br>(także tą słoną)
+			</div>
+			<!-- Jeśli chcesz pokazać sąsiadowi jak bardzo jest zacofany to jest właśnie ten moment! -->
+			<div class="left top text" id="n1_33">Jeśli chcesz pokazać sąsiadowi jak <br>bardzo jest zacofany<br>to jest właśnie ten moment!
+			</div>
+			<!-- Przedsprzedaż już ruszyła! -->
+			<div class="left top text" id="n1_34">Przedsprzedaż już ruszyła!</div>
+			<!-- Frame 15 -->
+			<div class="frame" id="n1_35"></div>
+		</div>
+		<!-- Frame 17 -->
+		<div class="frame" id="n1_36">
+			<!-- Frame 16 -->
+			<div class="frame" id="n1_37"></div>
+		</div>
+		<!-- IIoT-min 1 -->
+		<div class="left top rectangle" id="n1_38"></div>
+	</div>
+	<!-- Frame 18 -->
+	<div class="frame" id="n1_39">
+		<!-- Najlepszy serwis informacyjny o dronach -->
+		<div class="left top text" id="n1_40">Najlepszy serwis informacyjny o dronach</div>
+		<!-- To u nas dowiesz się wszystkiego na temat dronów. Poczynając od historii kończąc na nowinkach technologicznych. -->
+		<div class="left top text" id="n1_41">To u nas dowiesz się wszystkiego<br>na temat dronów. Poczynając od<br>historii kończąc na nowinkach technologicznych.
+		</div>
+		<!-- Frame 15 -->
+		<div class="frame" id="n1_42">
+			<!-- kliknij po więcej -->
+			<div class="left top text" id="n1_43">kliknij po więcej</div>
+		</div>
+	</div>
+	<!-- Frame 2 -->
+	<div class="frame" id="n1_44">
+		<!-- Frame 10 -->
+		<div class="frame" id="n1_45">
+			<!-- Droni-Com -->
+			<div class="left top text" id="n1_46">Droni-Com</div>
+			<!-- Best Drones -->
+			<div class="left top text" id="n1_47">Best Drones</div>
+			<!-- STRONA GŁÓWNA -->
+			<div class="left top text" id="n1_48">STRONA GŁÓWNA</div>
+			<!-- O NAS -->
+			<div class="left top text" id="n1_49">O NAS</div>
+			<!-- 64673 1 -->
+			<div class="left top rectangle" id="n1_50"></div>
+			<!-- depositphotos_118691750-stock-illustration-cartoon-magnifying-glass-icon 1 -->
+			<div class="left top rectangle" id="n1_51"></div>
+			<!-- dom 1 -->
+			<div class="left top rectangle" id="n1_52"></div>
+			<!-- KONTAKT -->
+			<div class="scale text" id="n1_53">KONTAKT</div>
+			<!-- NEWSY -->
+			<div class="scale text" id="n1_54">NEWSY</div>
+			<!-- Vector -->
+			<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/0a04/b283/3d893016cf0e8aeb7f3914fa71fefba0" width="29" height="25" class="scale vector" id="n1_55">
+				<!-- Vector -->
+				<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/e941/31cc/5b4905252e0e640448beef7555d902f2" width="34" height="25" class="scale vector" id="n1_56">
+					<!-- Vector -->
+					<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/dee9/d071/ff2313e382503d38fa0fd8b52396a669" width="14" height="27" class="scale vector" id="n1_57">
+						<!-- dron3 1 -->
+						<div class="left top rectangle" id="n1_58"></div>
+					</div>
+				</div>
+				<!-- Vector -->
+				<img src="https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/d580/4593/5f3cc8ffc09a63e81e0e7f94c5eb875f" width="33" height="23" class="scale vector" id="n1_59"></div>
+
+/* Android - 3 */
+#n1_2 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: rgb(255, 255, 255);
+}
+ 
+	/* Desktop - 2 */
+	#n1_3 {
+		width: 360px;
+		height: 723.5px;
+		overflow: hidden;
+		background: rgb(255, 255, 255);
+		left: -7px;
+		top: 34px;
+	}
+ 
+	/* Frame 2 */
+	#n1_4 {
+		width: 360px;
+		height: 848px;
+		overflow: hidden;
+		background: rgb(255, 255, 255);
+		top: 144px;
+	}
+ 
+		/* Frame 4 */
+		#n1_5 {
+			width: 360px;
+			height: 57px;
+			overflow: hidden;
+			background: rgb(91, 91, 91);
+			top: -21px;
+		}
+ 
+			/* Y3c9MTE3MCZjaD01MTM=_src_13483-uklad_scalony 1 */
+			#n1_6 {
+				background-image: url("https://s3-alpha-sig.figma.com/img/5e86/a221/1b69bd35f8981ed4b702a48ccdcd7a70?Expires=1579478400&Signature=gYRprIga6968p3xas0IBKdaTEAIgamMcjtGoaFTMN48h~BuZsuRSbgkegtjSoe733mjf5hJXWGPzzhdbKuSkNrNAdvjTRBRcmGH4bcLQC8Nom4SDCVlD3yQ7sb9x5mpMVB8zayQHpMQaeOeH5PMZa8gTGlTnJKAEiczYnG37xxU8rkIsxJw9CYmcKOuZ4GaSUUxTHpQcBgiySITz1Kt4THDRmbjn6eX1NKMGqoBW64D3omPewZDwtxstKfRSU2VHzmXcjhioEdY~~F33P3HARgGe8w3Rivs5gISNDhGmKR4cVtpEyhMyoLVo0Y98FXfwf-FjVNAzsUvYjEpHU5iu1g__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+				background-size: cover;
+				background-repeat: no-repeat;
+				background-position: center center;
+				width: 360px;
+				top: 1px;
+				height: 47px;
+			}
+ 
+		/* Frame 5 */
+		#n1_7 {
+			width: 360px;
+			height: 56px;
+			overflow: hidden;
+			background: rgb(57, 123, 120);
+			top: 104px;
+		}
+ 
+			/* kable-siecowe01 1 */
+			#n1_8 {
+				background-image: url("https://s3-alpha-sig.figma.com/img/d467/6b52/db81655976c8daca98ffdad62cc83440?Expires=1579478400&Signature=FZXUboCTdWTFexRSSW7CIWHDDhWjQ0gqG8cRsUVsVUCPoxhaAbhzwjqiprzWPzZY35q5hE8xTer2DrOXBpHR6t95EBqOOJIDxos5QNrze7MKkYCi1xe26XM~T1B7cwdmtvchXAfEvoGOlc2bQU0tYeNgReLDIaZZyGt4-Sdh6TL69IZ9whlBb1i0ReHFDRnFNGIhySBZ1QXE~4O1DnuyR4mDXJZLPpYWMH3o5RXK9f-arK-EBitliK4qGnM0GkMPEczXh0KD2nsXABU5VJ8d0o6WTQ5ExeJK6dbRnpNm666nAPPRAKzRsr9ixb2GEXag1rEKtQfYeXmLitJJKY~6Cw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+				background-size: cover;
+				background-repeat: no-repeat;
+				background-position: center center;
+				left: -7px;
+				width: 367px;
+				top: 18px;
+				height: 38px;
+			}
+ 
+		/* Frame 6 */
+		#n1_9 {
+			width: 360.341px;
+			height: 149.491px;
+			overflow: hidden;
+			background: rgb(73, 73, 73);
+			left: -1px;
+			top: 509px;
+		}
+ 
+			/* bg-computer 1 */
+			#n1_10 {
+				background-image: url("https://s3-alpha-sig.figma.com/img/8d05/15e0/e9d593a1fdf0562d490c3c1229639c8b?Expires=1579478400&Signature=DYb4x7VZlaqu4ow1lKQC0XRxq1IOIxbeBq4K8KJfw1C1FGIYFBG6JZJX4mUKCXWCbYS7S5Ewrryzipxc~Ld5tdN~-iuS-9TFC9CO2iDPbJFwX5KjVfG1BA4A8fOhogL0HOBuQUK6dCgHJsHYyUOD0T4GWfHh5XzMsW3K22P9TSLUrM5TWEAVh5rjVmSCjdIySCERIfM9hLlacyAEkggSTmrQbFJasTON5oHLkX9t-YJ7j7e6rE60g5qZM7SdTAozRV7yJBr7BS-~6BRvjEbquSS2I6HGfS5AC8YvWXGJYnEUYRBwXrJ8-yV6Hc6k~4FlrT-uGcchnCN9OkKgr9cNDA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+				background-size: cover;
+				background-repeat: no-repeat;
+				background-position: center center;
+				left: 30.7588px;
+				width: 149.491px;
+				top: 38.7274px;
+				height: 71.8769px;
+			}
+ 
+			/* Witamy na Droni-Com */
+			#n1_11 {
+				font-family: Roboto;
+				font-size: 10.1998px;
+				font-weight: 900;
+				letter-spacing: 0px;
+				color: rgb(244, 244, 244);
+				vertical-align: middle;
+				justify-content: flex-start;
+				width: 101.361px;
+				transform: translate(0px, 0px);
+				line-height: 11.9529px;
+				height: 11.9529px;
+				left: 221.5px;
+				top: 27.0599px;
+			}
+ 
+			/* DroniX to zgrupowanie ludzi pasjonujących się dronami i różnymi nowinkami technologicznymi. Naszym zadaniem jest dostarczać urzytkownikom naszej witryny najświeższych i zawsze najprawdziwszych informacji na temat nowinek technologicznych. */
+			#n1_12 {
+				font-family: Roboto;
+				font-size: 8px;
+				font-weight: 500;
+				letter-spacing: 0px;
+				color: rgb(219, 219, 219);
+				vertical-align: middle;
+				text-align: center;
+				justify-content: center;
+				width: 137px;
+				transform: translate(0px, 0px);
+				line-height: 9.375px;
+				height: 85px;
+				left: 203.5px;
+				top: 45.0599px;
+			}
+ 
+		/* Frame 8 */
+		#n1_13 {
+			width: 360.341px;
+			height: 167.341px;
+			overflow: hidden;
+			background: rgb(245, 245, 245);
+			top: 661px;
+		}
+ 
+			/* cover(12) 1 */
+			#n1_14 {
+				background-image: url("https://s3-alpha-sig.figma.com/img/24ad/ac32/14a7bf67cc2e4fd50b215468a97fa99c?Expires=1579478400&Signature=bd3w8Zqwvm8eiob9BRlmQr5cMu6YHc-CwwEt15Bn7nKZtc~tatQapuYWmWZImu725MxBkEX1Lc4jG63to1ewihCz7Fgyhr-xcch56WcK~oIK0i8LVygLSNvAbRHH2t8G7Nc691oVOW40zmXkhmbYQVNW-x3wcPJWuLOASGOxZ2BO5BNiEy7RpyAjAj4ZnaxgY68JN7xl2nazBAmxck5NnlyL9-ZD8iDIFlcVGJWyQUA6--5L4ZsARJe7r8q9H1jwVv42MZYlgPhjM~AwoZFX~Z7eBaHT-w00VsbcYSQYGGQxpI6gXjajhaNoerbqhY9so7Wi-pxZ1jOAcDLdZHRr0g__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+				background-size: cover;
+				background-repeat: no-repeat;
+				background-position: center center;
+				left: 27.5906px;
+				width: 150px;
+				top: 84.0749px;
+				height: 80px;
+			}
+ 
+			/* dron3-ff2f66671c794e4351906f1ffe 1 */
+			#n1_15 {
+				background-image: url("https://s3-alpha-sig.figma.com/img/2011/bd4a/644cf2e845993b7e174c668efe7b0fe3?Expires=1579478400&Signature=LoqmCopbKU4M2pw~3XbahDtHGEXy~uqD4UiG0K-SUECkyNYwOl1-jjmTDC1z-dfBOyd9ciSgLGVXq48VYKIp4gwiUm-JD7EJC34O9Yo3mDApenqBuqdmDM2CRPqNg-4vk8DoTe1IUhnop9hLxJgOHkdbnmvjquVtZv7gm4FT1X9ViotlZQavMQZdSmJWrYBn~TaVpd5xIGMMbep0bkN-ldbas2etSRwe9s9ovQArwLdBFP3bOGXrQ~nR4cJPJQMalMNW0PxduhVkPkWTdZC2etiLk4qbD0OLAAO787iq5pPpZBPyfDDe4ME1ZuMfuIlmb8I4Y4pkK1paQVsmCS5KPQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+				background-size: cover;
+				background-repeat: no-repeat;
+				background-position: center center;
+				box-shadow: rgba(0, 0, 0, 0.25) 0px 0.637489px 0.637489px 0px;
+				left: 182.591px;
+				width: 150px;
+				top: 84.0749px;
+				height: 80px;
+			}
+ 
+			/* 9.01.2019 – W Warszawie rozpoczną się Targi na których i Ty będziesz mógł przetestować nowego osobowego drona wejście na Event darmowe! Będą też dodatkowe atrakcje! */
+			#n1_16 {
+				font-family: Roboto;
+				font-size: 7px;
+				font-weight: 500;
+				letter-spacing: 0px;
+				color: rgb(75, 75, 75);
+				vertical-align: middle;
+				justify-content: flex-start;
+				width: 329px;
+				transform: translate(0px, 0px);
+				line-height: 8.20313px;
+				height: 16px;
+				left: 27.3406px;
+				top: 25.0749px;
+			}
+ 
+			/* o nowych perspektywach sektora dronowego opowie ekspert prawa lotniczego Joanna Wieczorek oraz prelegenci z Polskiej Agencji Żeglugi Powietrznej i Urzędu Lotnictwa Cywilnego */
+			#n1_17 {
+				font-family: Roboto;
+				font-size: 6px;
+				font-weight: 400;
+				letter-spacing: 0px;
+				color: rgb(75, 75, 75);
+				vertical-align: middle;
+				justify-content: flex-start;
+				width: 280px;
+				transform: translate(0px, 0px);
+				line-height: 7.03125px;
+				height: 11px;
+				left: 27.3406px;
+				top: 46.0749px;
+			}
+ 
+			/* o sztucznej inteligencji (AI) i cognitive computing na przykładzie konkretnych case studies opowiedzą eksperci Krzysztof Wysocki (Oracle) i Marcin Niczyporuk (Intive) */
+			#n1_18 {
+				font-family: Roboto;
+				font-size: 6px;
+				font-weight: 400;
+				letter-spacing: 0px;
+				color: rgb(75, 75, 75);
+				vertical-align: middle;
+				justify-content: flex-start;
+				width: 300px;
+				transform: translate(0px, 0px);
+				line-height: 7.03125px;
+				height: 11px;
+				left: 27.3406px;
+				top: 62.0749px;
+			}
+ 
+			/* EVENT */
+			#n1_19 {
+				font-family: Roboto;
+				font-size: 10.1998px;
+				font-weight: 700;
+				letter-spacing: 0px;
+				color: rgb(51, 51, 51);
+				vertical-align: middle;
+				justify-content: flex-start;
+				width: 31.5557px;
+				transform: translate(0px, 0px);
+				line-height: 11.9529px;
+				height: 11.9529px;
+				left: 164.341px;
+				top: 8.07489px;
+			}
+ 
+		/* Frame 9 */
+		#n1_20 {
+			width: 360px;
+			height: 20px;
+			overflow: hidden;
+			background: rgb(32, 178, 170);
+			left: -1px;
+			top: 828px;
+		}
+ 
+			/* KONTAKT: DroniX@dron.pl */
+			#n1_21 {
+				font-family: Roboto;
+				font-size: 3.82493px;
+				font-weight: 700;
+				letter-spacing: 0px;
+				color: rgb(255, 255, 255);
+				vertical-align: middle;
+				justify-content: flex-start;
+				width: 46.3773px;
+				transform: translate(0px, 0px);
+				line-height: 4.48234px;
+				height: 4.46242px;
+				left: 309.501px;
+				top: 9.56235px;
+			}
+ 
+		/* Frame 11 */
+		#n1_22 {
+			width: 361px;
+			height: 95px;
+			overflow: hidden;
+			background: rgb(73, 73, 73);
+			top: 27px;
+		}
+ 
+			/* Frame 14 */
+			#n1_23 {
+				width: 63px;
+				height: 16px;
+				overflow: hidden;
+				background: rgb(23, 127, 122);
+				box-shadow: rgba(0, 0, 0, 0.25) 0px 0.637489px 0.637489px 0px;
+				left: 149px;
+				top: 72px;
+			}
+ 
+				/* dołącz do nas! */
+				#n1_24 {
+					font-family: Roboto;
+					font-size: 7px;
+					font-weight: 500;
+					letter-spacing: 0px;
+					color: rgb(219, 219, 219);
+					vertical-align: middle;
+					justify-content: flex-start;
+					width: 46px;
+					transform: translate(0px, 0px);
+					line-height: 8.20313px;
+					height: 8px;
+					left: 8px;
+					top: 5px;
+				}
+ 
+			/* Już dziś zapisz sie do Newslettera! */
+			#n1_25 {
+				font-family: Roboto;
+				font-size: 13px;
+				font-weight: 700;
+				letter-spacing: 0px;
+				color: rgb(225, 225, 225);
+				vertical-align: middle;
+				justify-content: flex-start;
+				width: 205px;
+				transform: translate(0px, 0px);
+				line-height: 15.2344px;
+				height: 15px;
+				left: 78px;
+				top: 9px;
+			}
+ 
+			/* Chcesz dostawać najnowsze wiadomości ze świata dronów nic prosztrzego zapisz się do naszego newsletter z nim nigdy nie przegapisz najświeższych informacji! */
+			#n1_26 {
+				font-family: Roboto;
+				font-size: 9px;
+				font-weight: 500;
+				letter-spacing: 0px;
+				color: rgb(180, 180, 180);
+				vertical-align: middle;
+				text-align: center;
+				justify-content: center;
+				width: 201px;
+				transform: translate(0px, 0px);
+				line-height: 10.5469px;
+				height: 44px;
+				left: 80px;
+				top: 24px;
+			}
+ 
+		/* lupa 1 */
+		#n1_27 {
+			background-image: url("https://s3-alpha-sig.figma.com/img/39a7/b0d0/431107f22c999afe3c1ee42df4bd7824?Expires=1579478400&Signature=dcGZPv6jMOqs-3P2FKyMxCUcmBHumwxaUzLQUBOuismNNsfdrlAOW7E1IBvXH37oYF9h~7sN15H0Idro5WXpgu7bNxAG9n4nE9EBJzOptBU2798xEyYoxD351MHscIzgnhx1AjoLgCQ4C6K62uhsXPac~3P4lA1jqEs79IWVzssNT0PNZwWfE9QCrSoVDZRThyWmwox4BosjzeXlqtpGpai4PCjzh7oYA~OYNgU8IETYjyqp~Hb3jrxBgsrqyi5Sinj7Mi50fQtQANrThP5XKjMl7pLdnTDbx1JrZcZWrPnwynOsmiq2IfYbHnMtTCNZbV6MTklhiYffNuQ6aMnczw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-position: center center;
+			left: 341.535px;
+			width: 11.9529px;
+			top: 4.94055px;
+			height: 11.9529px;
+		}
+ 
+		/* Frame 14 */
+		#n1_28 {
+			width: 360px;
+			height: 299px;
+			overflow: hidden;
+			background: rgb(245, 245, 245);
+			top: 160px;
+		}
+ 
+			/* dubai-police-force-testing-hoverbikes-designboom-1 1 */
+			#n1_29 {
+				background-image: url("https://s3-alpha-sig.figma.com/img/9c09/2b84/852df77c364e1979ff6d3fd16400a061?Expires=1579478400&Signature=fr8XPrPAPRYFwFOtPYFo1lNgpqi8lbUQM5tPY~oEhKAXkwhVoEhAymQ-AAcYcmnit~cllpXTveC1MY6F72zFuVejQS7q34bzhxyzjruWuN214c46LeWdPVxPxrQsbphCgHotA-bEUsnsd-SbPXnw8b6nfA~ajMA39LIpuKtz081e2aXK97MN2kRDeaXAYfwwpUdKpYRkp7OjJXCnKCddgndc6qqa0C9ZjdaeOFV3jtgsSPk71yOojWyr-1xR--KC6ELFeuTxACwBaU-StKJXHLBF2EHCh1FKAEGJq~BROgR0Kz0fHTZLjm0-CsHRqXn3YP8uGZV8CtbegOlXs~0Ehg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+				background-size: cover;
+				background-repeat: no-repeat;
+				background-position: center center;
+				left: 85px;
+				width: 189px;
+				top: 156px;
+				height: 134.482px;
+			}
+ 
+			/* CZY TO PRZYSZŁOŚĆ? */
+			#n1_30 {
+				font-family: Roboto;
+				font-size: 9px;
+				font-weight: 700;
+				letter-spacing: 0px;
+				color: rgb(51, 51, 51);
+				vertical-align: middle;
+				justify-content: flex-start;
+				width: 97px;
+				transform: translate(0px, 0px);
+				line-height: 10.5469px;
+				height: 9px;
+				left: 131px;
+				top: 24.9903px;
+			}
+ 
+			/* Nie to Dron zaprezentowany przez firme Droni-Com */
+			#n1_31 {
+				align-items: normal;
+				color: rgb(75, 75, 75);
+				vertical-align: middle;
+				text-align: center;
+				justify-content: center;
+				width: 88px;
+				transform: translate(0px, 0px);
+				line-height: 9.375px;
+				height: 13px;
+				left: 136px;
+				top: 37.9903px;
+			}
+ 
+				/* Nie to Dron zaprezentowany przez firme Droni-Com Subset */
+				#n1_31-9 {
+					font-family: Roboto;
+					font-size: 8px;
+					font-weight: 500;
+					line-height: 9.375px;
+					letter-spacing: 0px;
+					align-items: normal;
+				}
+ 
+				/* Nie to Dron zaprezentowany przez firme Droni-Com Subset */
+				#n1_31-8 {
+					font-family: Roboto;
+					font-size: 8px;
+					font-weight: 900;
+					line-height: 9.375px;
+					letter-spacing: 0px;
+					align-items: normal;
+				}
+ 
+			/* Lata nie wymaga licencji pilota i jest wpełni zasilany na wodę! (także tą słoną) */
+			#n1_32 {
+				font-family: Roboto;
+				font-size: 8px;
+				font-weight: 500;
+				letter-spacing: 0px;
+				color: rgb(75, 75, 75);
+				vertical-align: middle;
+				text-align: center;
+				justify-content: center;
+				width: 116px;
+				transform: translate(0px, 0px);
+				line-height: 9.375px;
+				height: 20px;
+				left: 122px;
+				top: 67.9903px;
+			}
+ 
+			/* Jeśli chcesz pokazać sąsiadowi jak bardzo jest zacofany to jest właśnie ten moment! */
+			#n1_33 {
+				font-family: Roboto;
+				font-size: 8px;
+				font-weight: 500;
+				letter-spacing: 0px;
+				color: rgb(75, 75, 75);
+				vertical-align: middle;
+				text-align: center;
+				justify-content: center;
+				width: 105px;
+				transform: translate(0px, 0px);
+				line-height: 9.375px;
+				height: 20px;
+				left: 127px;
+				top: 95.9903px;
+			}
+ 
+			/* Przedsprzedaż już ruszyła! */
+			#n1_34 {
+				font-family: Roboto;
+				font-size: 9px;
+				font-weight: 700;
+				letter-spacing: 0px;
+				color: rgb(51, 51, 51);
+				vertical-align: middle;
+				justify-content: flex-start;
+				width: 109px;
+				transform: translate(0px, 0px);
+				line-height: 10.5469px;
+				height: 9px;
+				left: 125px;
+				top: 139.99px;
+			}
+ 
+			/* Frame 15 */
+			#n1_35 {
+				width: 360.5px;
+				height: 50.3616px;
+				overflow: hidden;
+				left: -1.52588e-05px;
+				top: 187.581px;
+			}
+ 
+		/* Frame 17 */
+		#n1_36 {
+			width: 360.181px;
+			height: 51.1585px;
+			overflow: hidden;
+			background: rgb(32, 178, 170);
+			left: -1px;
+			top: 458px;
+		}
+ 
+			/* Frame 16 */
+			#n1_37 {
+				width: 360.341px;
+				height: 50.3616px;
+				overflow: hidden;
+				background: rgb(32, 178, 170);
+				left: -9.15527e-05px;
+				top: 0.796844px;
+			}
+ 
+		/* IIoT-min 1 */
+		#n1_38 {
+			background-image: url("https://s3-alpha-sig.figma.com/img/a135/c05c/04bed8dbcbd54749164f2683e9e90305?Expires=1579478400&Signature=QX8fc4uPetkC7UOp9c~PZ2tTisSA5NyOFlmluJ5Hc6r~v5uvxsiZsd9xbFrg8nDELT~7sh4m6SrdNNHc-3Djjnux7c4rKJu9KQMxywqqeBmrD5gITZ~Cd8wO3~ZofbONMJrYbl7rUWl1EnOtOe0hpzGOJJQ0Gb6beO3IQOJj61t~KMVYMGSGPgmeNtDO7TMr24EKdt8Zw4ENATgVMYJAEWZ5uCm8~VfnWbvnA8dQty5XCZykX8UMYuOP0517Z-HPo6zpfJs4cN504kHW~NtU2zrUuWlMGnGv4MTA61tF4Z7uG5cpzHHjGHZ5dsIg9Pfb2u6smK2vERL3sSecaFJgpw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-position: center center;
+			width: 360.5px;
+			top: 458px;
+			height: 50.9991px;
+		}
+ 
+	/* Frame 18 */
+	#n1_39 {
+		width: 362px;
+		height: 88px;
+		overflow: hidden;
+		background: rgb(73, 73, 73);
+		left: -1px;
+		top: 56px;
+	}
+ 
+		/* Najlepszy serwis informacyjny o dronach */
+		#n1_40 {
+			font-family: Roboto;
+			font-size: 13px;
+			font-weight: 700;
+			letter-spacing: 0px;
+			color: rgb(225, 225, 225);
+			vertical-align: middle;
+			justify-content: flex-start;
+			width: 248px;
+			transform: translate(0px, 0px);
+			line-height: 15.2344px;
+			height: 18px;
+			left: 57px;
+			top: 9px;
+		}
+ 
+		/* To u nas dowiesz się wszystkiego na temat dronów. Poczynając od historii kończąc na nowinkach technologicznych. */
+		#n1_41 {
+			font-family: Roboto;
+			font-size: 9px;
+			font-weight: 500;
+			letter-spacing: 0px;
+			color: rgb(180, 180, 180);
+			vertical-align: middle;
+			text-align: center;
+			justify-content: center;
+			width: 233px;
+			transform: translate(0px, 0px);
+			line-height: 10.5469px;
+			height: 33px;
+			left: 64px;
+			top: 24px;
+		}
+ 
+		/* Frame 15 */
+		#n1_42 {
+			width: 63px;
+			height: 16px;
+			overflow: hidden;
+			background: rgb(23, 127, 122);
+			box-shadow: rgba(0, 0, 0, 0.25) 0px 0.637489px 0.637489px 0px;
+			left: 149px;
+			top: 62px;
+		}
+ 
+			/* kliknij po więcej */
+			#n1_43 {
+				font-family: Roboto;
+				font-size: 7px;
+				font-weight: 500;
+				letter-spacing: 0px;
+				color: rgb(219, 219, 219);
+				vertical-align: middle;
+				justify-content: flex-start;
+				width: 50px;
+				transform: translate(0px, 0px);
+				line-height: 8.20313px;
+				height: 8px;
+				left: 6px;
+				top: 5px;
+			}
+ 
+	/* Frame 2 */
+	#n1_44 {
+		width: 361.187px;
+		height: 57.1874px;
+		overflow: hidden;
+		background: rgb(32, 178, 170);
+	}
+ 
+		/* Frame 10 */
+		#n1_45 {
+			width: 358px;
+			height: 54px;
+			overflow: hidden;
+			left: 1.59372px;
+			top: 1.59372px;
+		}
+ 
+			/* Droni-Com */
+			#n1_46 {
+				font-family: Roboto;
+				font-size: 15.3942px;
+				font-weight: 700;
+				letter-spacing: 0px;
+				color: rgb(255, 255, 255);
+				vertical-align: middle;
+				justify-content: flex-start;
+				width: 75.0469px;
+				transform: translate(0px, 0px);
+				line-height: 18.0401px;
+				height: 17.9599px;
+				left: 41.4063px;
+				top: 16.2524px;
+			}
+ 
+			/* Best Drones */
+			#n1_47 {
+				font-family: Roboto;
+				font-size: 5.77284px;
+				font-weight: 700;
+				letter-spacing: 0px;
+				color: rgb(255, 255, 255);
+				vertical-align: middle;
+				justify-content: flex-start;
+				width: 31.7506px;
+				transform: translate(0px, 0px);
+				line-height: 6.76504px;
+				height: 6.73498px;
+				left: 83.6656px;
+				top: 34.3636px;
+			}
+ 
+			/* STRONA GŁÓWNA */
+			#n1_48 {
+				font-family: Roboto;
+				font-size: 5px;
+				font-weight: 700;
+				letter-spacing: 0px;
+				color: rgb(255, 255, 255);
+				vertical-align: middle;
+				justify-content: flex-start;
+				width: 44px;
+				transform: translate(0px, 0px);
+				line-height: 5.85938px;
+				height: 4px;
+				left: 160.406px;
+				top: 37.4063px;
+			}
+ 
+			/* O NAS */
+			#n1_49 {
+				font-family: Roboto;
+				font-size: 5px;
+				font-weight: 700;
+				letter-spacing: 0px;
+				color: rgb(255, 255, 255);
+				vertical-align: middle;
+				justify-content: flex-start;
+				width: 15px;
+				transform: translate(0px, 0px);
+				line-height: 5.85938px;
+				height: 4px;
+				left: 216.406px;
+				top: 37.4063px;
+			}
+ 
+			/* 64673 1 */
+			#n1_50 {
+				left: 344.563px;
+				width: 9.56233px;
+				top: 10.8373px;
+				height: 9.72171px;
+			}
+ 
+			/* depositphotos_118691750-stock-illustration-cartoon-magnifying-glass-icon 1 */
+			#n1_51 {
+				background-image: url("https://s3-alpha-sig.figma.com/img/68e4/3e26/49fffcbd06c6d7e0c8450434f55cfcad?Expires=1579478400&Signature=Aphay6bL4Yw5T7eJm~GOIiZFgxPWD-wCxKExEARZi-BvRcaMORekhfdxPH3kzHWJmUl-VveJd3oS62~ITHkIy507OxoH7u8oLwZItz31ZaBcPR0RHC9jQm76yC0zRJwnZSQJ~KCQe0GrYqWC15h9DPgK4kNxqFLInsPZD4Fwr8nsvumd0aIVd9HYlJdC5Dzve~4h4YUJ55KOE~7n8u1Dqdo1fDRaShm0b72w33-dgpp1YUAyHrQRkD8kKx7h82zqbWPjQsDUZIsLO868XDZa4sH9kzhKpcEUzPIACj85IhxoEMlhMtV6lcTm35eVQc8I-xdNDSrlFzsCCTAYiqoUBA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+				background-size: cover;
+				background-repeat: no-repeat;
+				background-position: center center;
+				left: 339.463px;
+				width: 0.158846px;
+				top: 13.0685px;
+				height: 0.158846px;
+			}
+ 
+			/* dom 1 */
+			#n1_52 {
+				left: 111.406px;
+				width: 30px;
+				top: 9.40628px;
+				height: 27px;
+			}
+ 
+			/* KONTAKT */
+			#n1_53 {
+				font-family: Roboto;
+				font-size: 5px;
+				font-weight: 700;
+				letter-spacing: 0px;
+				color: rgb(255, 255, 255);
+				vertical-align: middle;
+				justify-content: flex-start;
+				transform: translate(0px, 0px);
+				line-height: 5.85938px;
+				left: 85.309%;
+				right: 7.98708%;
+				top: 69.27%;
+				bottom: 23.32%;
+			}
+ 
+			/* NEWSY */
+			#n1_54 {
+				font-family: Roboto;
+				font-size: 5px;
+				font-weight: 700;
+				letter-spacing: 0px;
+				color: rgb(255, 255, 255);
+				vertical-align: middle;
+				justify-content: flex-start;
+				transform: translate(0px, 0px);
+				line-height: 5.85938px;
+				left: 71.3425%;
+				right: 23.6295%;
+				top: 69.27%;
+				bottom: 23.32%;
+			}
+ 
+			/* Vector */
+			#n1_55 {
+				left: 69.6666%;
+				right: 22.2329%;
+				top: 15.57%;
+				bottom: 38.14%;
+			}
+ 
+			/* Vector */
+			#n1_56 {
+				left: 83.9124%;
+				right: 6.59043%;
+				top: 15.57%;
+				bottom: 38.14%;
+			}
+ 
+			/* Vector */
+			#n1_57 {
+				left: 60.728%;
+				right: 35.3614%;
+				top: 11.86%;
+				bottom: 38.14%;
+			}
+ 
+			/* dron3 1 */
+			#n1_58 {
+				background-image: url("https://s3-alpha-sig.figma.com/img/31f2/1fb0/a680dca66cbf11babac0faaab745de8b?Expires=1579478400&Signature=PRe7KM0tgo5LcUN4-5NM2BxTmeB-Qn1-gltxf9vbybiJnjV5lu3tYpjDmMcmyctJzDXvfytn1hO5yI0uIfi8BC1yBCjJZQXl7cWwfLsUEvY6BK4yLeY0q9EbBDcrS-BuuTJZTYxelI7pm~E8HakaXajcELowp4OQrb5QyQB8~FNFSKX-7gSCQ8eOCj2J0JpWYl1s9KJs4CUW8-ajVxqyIjFknrc0BTRk-rEeNCvYHlbXTusEWn8eHVa-wjHWpmOUy6xsNUCIqHuyUX5HdeKykQJoAjQWiN1QOdhrNRZiszoe5HfIfOO1vBRYH8k3b6~w5MCepjliKKRUROYxD~y8CQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+				background-size: cover;
+				background-repeat: no-repeat;
+				background-position: center center;
+				left: 8.40625px;
+				width: 31.3693px;
+				top: 9.40628px;
+				height: 31.991px;
+			}
+ 
+	/* Vector */
+	#n1_59 {
+		left: 46.3889%;
+		right: 44.4444%;
+		top: 0.8%;
+		bottom: 96.88%;
+	}
